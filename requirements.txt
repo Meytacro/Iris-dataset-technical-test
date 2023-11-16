@@ -1,2 +1,2 @@
-Libraries: Pandas, Matplotlib, seaborn (optional)
+Libraries: Pandas, Matplotlib, os, seaborn (optional)
 Enviroment: Jupyter notebooks
