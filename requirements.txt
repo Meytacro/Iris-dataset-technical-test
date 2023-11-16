@@ -1,0 +1,2 @@
+Libraries: Pandas, Matplotlib
+Enviroment: Jupyter notebooks
