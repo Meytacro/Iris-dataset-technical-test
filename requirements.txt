@@ -6,3 +6,4 @@ Libraries:
 
 Enviroment: 
   jupyter notebooks
+  mysql workbench
