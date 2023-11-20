@@ -1,2 +1,9 @@
-Libraries: Pandas, Matplotlib, os, zipfile, seaborn (optional)
-Enviroment: Jupyter notebooks
+Libraries: 
+  pandas 
+  matplotlib 
+  os
+  seaborn 
+  sklearn
+
+Enviroment: 
+  jupyter notebooks
