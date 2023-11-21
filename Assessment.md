@@ -44,3 +44,15 @@ Evaluation Criteria:
 • Quality and relevance of data analysis.
 • Effective use of version control (GitHub).
 • Completeness and clarity of documentation.
+
+# Solution
+
+In the scripts folder, there is the file main.ipynb where we will see the code that solves the test proposed in section 2, Python Programming, as well as the documentation and explanation of the results obtained.
+
+Also included are the SQL queries applied to the dataset as well as the result obtained by applying these queries in MySQL Workbench to the iris table (where the entire dataset is located).
+
+In the plots folder, all the graphs generated in the main.ipynb file within scripts are collected.
+
+In the sql folder, we find the file sql_queries.sql which we can open with MySQL Workbench and execute the queries directly to see the results in an SQL environment.
+
+In requirements, we have a list that enumerates all the resources used for the resolution of this technical test.
